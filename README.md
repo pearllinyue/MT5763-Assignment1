@@ -1,33 +1,5 @@
 # MT5763-Assignment1
 ---
-title: "MT5763 Project 1 - exploratory data analysis"
-author: "C. Donovan"
-output:
-  html_notebook:
-    number_sections: yes
-    toc: yes
-    toc_depth: 2
-    toc_float: yes
-  html_document:
-    df_print: paged
-    toc: yes
-    toc_depth: '2'
-    highlight: tango
-  word_document:
-    toc: yes
-    toc_depth: '2'
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-<img src="images/potLeaf.jpg" style="position:absolute;top:60px;right:0px;width:200px;opacity:0.8" />
-
-
-
-
-
 # Introduction
 
 Read the associated article on Moodle (__Herald_article.pdf__ _New Zealand Herald_ 4/07/2000).
